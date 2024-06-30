@@ -1,10 +1,16 @@
 # CODTECH-Task1
 **Fitness and Health Tracking application**
+
 **Name**:HUSSAIN ATTARI
+
 **Company**:CODTECH IT SOLUTIONS
+
 **ID**:CT08DS1517
+
 **Domain**:Software Development
+
 **Duration**:5 June to 5 July 2024
+
 **Mentor**:Sravani gouni
 
 # Overview
